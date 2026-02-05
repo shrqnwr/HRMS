@@ -1,0 +1,8 @@
+{
+  "name": "Nexus HRMS",
+  "description": "A comprehensive, modular Human Resource Management System with features for Core HR, ATS, Payroll, Time Tracking, and Performance Management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
